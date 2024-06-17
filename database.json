@@ -1,0 +1,171 @@
+{
+  "Banner": [
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/project189-ede2a.appspot.com/o/banner1.png?alt=media&token=f525f102-1a82-4bc3-b697-b9d3b2e85e26"
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/project189-ede2a.appspot.com/o/banner2.png?alt=media&token=898ca000-1f21-42df-84e1-e073ec464ae7"
+    }
+  ],
+  "Category": [
+    {
+      "Id": 0,
+      "ImagePath": "https://firebasestorage.googleapis.com/v0/b/project189-ede2a.appspot.com/o/cat1.png?alt=media&token=8988a93d-9257-443c-966d-5a3e0af47c11",
+      "Name": "Beach"
+    },
+    {
+      "Id": 1,
+      "ImagePath": "https://firebasestorage.googleapis.com/v0/b/project189-ede2a.appspot.com/o/cat2.png?alt=media&token=07df10c5-d465-47f4-a536-923a6c608d5f",
+      "Name": "Camp"
+    },
+    {
+      "Id": 2,
+      "ImagePath": "https://firebasestorage.googleapis.com/v0/b/project189-ede2a.appspot.com/o/cat3.png?alt=media&token=d02eaedc-97e2-43b7-b746-4d0f50848831",
+      "Name": "Jungle"
+    },
+    {
+      "Id": 3,
+      "ImagePath": "https://firebasestorage.googleapis.com/v0/b/project189-ede2a.appspot.com/o/cat4.png?alt=media&token=ff331f48-dc74-460b-85a0-4589facda5bf",
+      "Name": "Desert"
+    },
+    {
+      "Id": 4,
+      "ImagePath": "https://firebasestorage.googleapis.com/v0/b/project189-ede2a.appspot.com/o/cat5.png?alt=media&token=a22025c3-c1cc-4641-a095-1a24dfa43f2f",
+      "Name": "Mountain"
+    }
+  ],
+  "Item": [
+    {
+      "address": "Hawaie, USA",
+      "bed": 2,
+      "dateTour": "17 June 2024",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. Ut enim ad minim  veniam, quis nostrud exercitation ullamco laboris  nisi ut aliquip ex ea commodo consequat. ",
+      "distance": "30Km",
+      "duration": "3D / 2N",
+      "pic": "https://firebasestorage.googleapis.com/v0/b/project189-ede2a.appspot.com/o/item_4.jpg?alt=media&token=488e4620-f139-4b86-a075-e784c7837d36",
+      "price": 900,
+      "score": 4.5,
+      "timeTour": "8:00 PM",
+      "title": "Band Island Beach",
+      "tourGuideName": "Edward Cloney",
+      "tourGuidePhone": "001123456789",
+      "tourGuidePic": "https://firebasestorage.googleapis.com/v0/b/project189-ede2a.appspot.com/o/profile.png?alt=media&token=fe709454-312a-4cf0-bb72-aa74037a700e"
+    },
+    {
+      "address": "Lombok,Indonesia",
+      "bed": 1,
+      "dateTour": "18 June 2024",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. Ut enim ad minim  veniam, quis nostrud exercitation ullamco laboris  nisi ut aliquip ex ea commodo consequat. ",
+      "distance": "20Km",
+      "duration": "3D / 2N",
+      "pic": "https://firebasestorage.googleapis.com/v0/b/project189-ede2a.appspot.com/o/item_3.jpg?alt=media&token=b923ab5a-1275-438a-8bfc-c6bf0bfca530",
+      "price": 800,
+      "score": 4.6,
+      "timeTour": "4:00 PM",
+      "title": "Komodo Island",
+      "tourGuideName": "Edward Cloney",
+      "tourGuidePhone": "001123456789",
+      "tourGuidePic": "https://firebasestorage.googleapis.com/v0/b/project189-ede2a.appspot.com/o/profile.png?alt=media&token=fe709454-312a-4cf0-bb72-aa74037a700e"
+    },
+    {
+      "address": "LosAngles, USA",
+      "bed": 2,
+      "dateTour": "20 July 2024",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. Ut enim ad minim  veniam, quis nostrud exercitation ullamco laboris  nisi ut aliquip ex ea commodo consequat. ",
+      "distance": "90Km",
+      "duration": "2D / 1N",
+      "pic": "https://firebasestorage.googleapis.com/v0/b/project189-ede2a.appspot.com/o/item_2.jpg?alt=media&token=be85ac5e-d187-4eea-bd12-b4c0b15f4308",
+      "price": 750,
+      "score": 4.9,
+      "timeTour": "2:00 PM",
+      "title": "Kelingking Beach",
+      "tourGuideName": "Edward Cloney",
+      "tourGuidePhone": "001123456789",
+      "tourGuidePic": "https://firebasestorage.googleapis.com/v0/b/project189-ede2a.appspot.com/o/profile.png?alt=media&token=fe709454-312a-4cf0-bb72-aa74037a700e"
+    },
+    {
+      "address": "Bali, Indonesia",
+      "bed": 3,
+      "dateTour": "10 July 2024",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. Ut enim ad minim  veniam, quis nostrud exercitation ullamco laboris  nisi ut aliquip ex ea commodo consequat. ",
+      "distance": "200Km",
+      "duration": "1D / 1N",
+      "pic": "https://firebasestorage.googleapis.com/v0/b/project189-ede2a.appspot.com/o/item_5.jpg?alt=media&token=a857db00-7c30-4218-b0ca-370f91d4d9de",
+      "price": 600,
+      "score": 4.1,
+      "timeTour": "11:00 PM",
+      "title": "Nusa Penida",
+      "tourGuideName": "Edward Cloney",
+      "tourGuidePhone": "001123456789",
+      "tourGuidePic": "https://firebasestorage.googleapis.com/v0/b/project189-ede2a.appspot.com/o/profile.png?alt=media&token=fe709454-312a-4cf0-bb72-aa74037a700e"
+    }
+  ],
+  "Location": [
+    {
+      "Id": 0,
+      "loc": "LA california"
+    },
+    {
+      "Id": 1,
+      "loc": "NY manhattan"
+    },
+    {
+      "Id": 2,
+      "loc": "Bali, Indonesia"
+    },
+    {
+      "Id": 3,
+      "loc": "Lombok,Indonesia"
+    }
+  ],
+  "Popular": [
+    {
+      "address": "Bali, Indonesia",
+      "bed": 3,
+      "dateTour": "10 July 2024",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. Ut enim ad minim  veniam, quis nostrud exercitation ullamco laboris  nisi ut aliquip ex ea commodo consequat. ",
+      "distance": "200Km",
+      "duration": "1D / 1N",
+      "pic": "https://firebasestorage.googleapis.com/v0/b/project189-ede2a.appspot.com/o/item_5.jpg?alt=media&token=a857db00-7c30-4218-b0ca-370f91d4d9de",
+      "price": 600,
+      "score": 4.1,
+      "timeTour": "11:00 PM",
+      "title": "Nusa Penida",
+      "tourGuideName": "Edward Cloney",
+      "tourGuidePhone": "001123456789",
+      "tourGuidePic": "https://firebasestorage.googleapis.com/v0/b/project189-ede2a.appspot.com/o/profile.png?alt=media&token=fe709454-312a-4cf0-bb72-aa74037a700e"
+    },
+    {
+      "address": "LosAngles, USA",
+      "bed": 2,
+      "dateTour": "20 July 2024",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. Ut enim ad minim  veniam, quis nostrud exercitation ullamco laboris  nisi ut aliquip ex ea commodo consequat. ",
+      "distance": "90Km",
+      "duration": "2D / 1N",
+      "pic": "https://firebasestorage.googleapis.com/v0/b/project189-ede2a.appspot.com/o/item_2.jpg?alt=media&token=be85ac5e-d187-4eea-bd12-b4c0b15f4308",
+      "price": 750,
+      "score": 4.9,
+      "timeTour": "2:00 PM",
+      "title": "Kelingking Beach",
+      "tourGuideName": "Edward Cloney",
+      "tourGuidePhone": "001123456789",
+      "tourGuidePic": "https://firebasestorage.googleapis.com/v0/b/project189-ede2a.appspot.com/o/profile.png?alt=media&token=fe709454-312a-4cf0-bb72-aa74037a700e"
+    },
+    {
+      "address": "Hawaie, USA",
+      "bed": 2,
+      "dateTour": "17 June 2024",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. Ut enim ad minim  veniam, quis nostrud exercitation ullamco laboris  nisi ut aliquip ex ea commodo consequat. ",
+      "distance": "30Km",
+      "duration": "3D / 2N",
+      "pic": "https://firebasestorage.googleapis.com/v0/b/project189-ede2a.appspot.com/o/item_4.jpg?alt=media&token=488e4620-f139-4b86-a075-e784c7837d36",
+      "price": 900,
+      "score": 4.5,
+      "timeTour": "8:00 PM",
+      "title": "Band Island Beach",
+      "tourGuideName": "Edward Cloney",
+      "tourGuidePhone": "001123456789",
+      "tourGuidePic": "https://firebasestorage.googleapis.com/v0/b/project189-ede2a.appspot.com/o/profile.png?alt=media&token=fe709454-312a-4cf0-bb72-aa74037a700e"
+    }
+  ]
+}
